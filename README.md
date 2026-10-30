@@ -15,7 +15,7 @@ O programa foi desenvolvido para analisar capturas da comunicação série entre
 - Comparação de padrões entre diferentes capturas.
 - Identificação exploratória de comandos introduzidos pelo byte `ESC` (`0x1B`).
 
-## Nota
+## Notas
 
 Esta ferramenta foi desenvolvida para fins de investigação e engenharia reversa. A interpretação do protocolo é parcial e os resultados não constituem uma especificação completa do sistema original.
 
